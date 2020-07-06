@@ -1,0 +1,17 @@
+/* footer{
+	background-color: red;
+} */
+
+h1,h2,h3,h4,p{
+	color: #000000;
+}
+
+h2::after{
+	color: #000000;
+}
+
+.hg{
+	height: 20px;
+	width: 100%;
+	margin: 0;
+}
